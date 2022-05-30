@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "pet-control-copy",
+    "slug": "snack-c6314dce-7af1-43d7-b28b-55e19f58c0e8",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "br.com.sareco"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
